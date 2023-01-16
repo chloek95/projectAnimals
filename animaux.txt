@@ -3,4 +3,8 @@ lion
 tigre
 lapin
 ours
+<<<<<<< HEAD
 chat
+=======
+chien
+>>>>>>> addDog
